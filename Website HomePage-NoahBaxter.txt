@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<link href='https://fonts.googleapis.com/css?family=Julee' rel='stylesheet'>
+<style>
+    h1{color:rgb(50,11,200); font-family:'Julee';}
+    h2{color:rgb(50,11,200); font-family:'Julee';}
+    h3{color:rgb(50,11,200); font-family:'Julee';}
+    h4{color:rgb(50,11,200); font-family:'Julee';}
+    h5{color:rgb(50,11,200); font-family:'Julee';}
+    h6{color:rgb(50,11,200); font-family:'Julee';}
+    div.a{transform: rotate(19deg);}
+    p{margin: 10px 900px 10px 10px;}
+</style>
+    <head>
+        <title>History & Facts On The Guitar</title>
+    </head>
+    <link href='https://fonts.googleapis.com/css?family=Julee' rel='stylesheet'>
+    <body>
+        <h1>Home</h1>
+    <h4>- <a href = "https://codehs.com/editor/html/1181490/824066/index.html">Home</a> - 
+    <a href = "https://codehs.com/editor/html/1181493/824066/index.html">History</a> - 
+    <a href = "https://codehs.com/editor/html/1186869/824066/index.html">Usage</a> - 
+    <a href = "https://codehs.com/editor/html/1187038/824066/index.html">Chords</a> - 
+    <a href = "https://codehs.com/editor/html/1187020/824066/index.html">Types</a> - 
+    <a href = "https://codehs.com/editor/html/1181975/824066/index.html">Reading Tabs</a> - 
+    <a href = "https://codehs.com/editor/html/1181888/824066/index.html">Parts</a> -
+    </h4>
+        <p>
+            Here you will learn about various aspects of the guitar including; the history and origin of the instrument, what types of music it is used in, chords and their shapes, types of guitars, how to read tablature, and the parts that make up a guitar.
+        </p>
+    </body>
+</html>
